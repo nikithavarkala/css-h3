@@ -1,0 +1,141 @@
+body{
+    background-color: cornsilk;
+}
+.header{
+    background-color: aliceblue;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: crimson;
+    padding: 20px 80px;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    width: fit-content;
+    margin: 10px;
+    margin: auto;
+    box-shadow: 6px 6px 4px blueviolet;
+}
+.boxs{
+    border: 5px solid peru;
+    height: 530px;
+    margin: 10px -5px;
+    
+}
+.box-items{
+    border: 5px solid red;
+    border-radius: 8px;
+    box-shadow: 5px 5px 2px blueviolet;
+    width: 180px;
+    height: 160px;
+    background-color: aliceblue;
+    text-align:center;
+    padding: 10px;
+    font-weight: 600;
+    color:rgb(39, 11, 65);
+    text-shadow: 2px 2px 6PX blueviolet;
+}
+.h3{
+    margin: 5px;
+}
+.b2{
+    
+    position: relative;
+    left:1080px;
+    bottom: 180px;
+}
+img{
+    width: 180px;
+    height: 120px;
+    padding-top:15px ;
+}
+.b3{
+    position: relative;
+    bottom: 75px;
+    padding:  20px 10px;
+    text-align: left;
+    font-style: italic;
+}
+.htxt{
+    margin: 10px 5px;
+}
+.b4{
+    position: relative;
+    left: 1080px;
+    bottom: 260px;
+}
+input{
+    width: 90px;
+    margin: 10px;
+}
+button{
+    width: fit-content;
+    margin: 5px;
+    border-radius: 8px;
+    background-color: burlywood;
+    border:1px solid cornsilk;
+    box-shadow: 3px 3px 3px brown;
+}
+
+.box5{
+    display:flex;
+    flex-flow:row wrap;
+    align-content:space-evenly;
+    justify-content:space-evenly;
+    border:4px solid red;
+    box-shadow: 5px 5px 2px blueviolet;
+    border-radius: 15px;
+    background-color: rgb(46, 184, 115);
+    color:rgb(61, 31, 88);
+    position:fixed;
+    font-style: italic;
+    bottom:90px;
+    left:420px;
+    height:70px;
+    width:450px;
+    text-align: center;
+    z-index:1;
+}
+
+
+
+.parent{
+    border: 6px solid green;
+    width: 710px;
+    height: 530px;
+    text-align: center;
+    margin:auto;
+    font-style: italic;
+
+    background-color: rgb(113, 223, 186);
+}
+.child1{
+    background-color:goldenrod;
+    padding: 10px 0px;
+    width:fit-content;
+    
+}
+.child2{
+    background-color:goldenrod;
+    padding: 10px  10px;
+    width: 350px;
+    position: relative;
+    left: 338px;
+    bottom: 215px;
+    
+}
+.child3{
+    background-color: goldenrod;
+    padding: 10px 0px;
+    position: relative;
+    bottom: 200px;
+}   
+ul{
+    list-style: none;
+    display: inline;
+    
+}
+h2{
+    margin:5px;
+}
+
+
